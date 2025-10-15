@@ -492,6 +492,5 @@ st.markdown("""
 - **Algorithmes** : RandomForest (bagging d'arbres), ExtraTrees (bagging plus aléatoire), GradientBoosting (boosting), Stacking (combinaison).
 """)
 
-st.markdown("### Avertissement légal & d'usage")
-st.markdown("""
+
 
