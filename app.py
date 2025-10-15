@@ -26,9 +26,9 @@ from sklearn.preprocessing import StandardScaler
 from sklearn.pipeline import make_pipeline
 from sklearn.base import clone
 
-import statsmodels.api as sm
 import warnings
 warnings.filterwarnings("ignore")
+
 
 st.set_page_config(page_title="Signal Alert AVTR (amélioré)", layout="wide")
 
